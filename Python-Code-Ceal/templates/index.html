@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¿Quién Quiere Ser Millonario?</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}?v={{ t }}">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💰</text></svg>">
+</head>
+<body>
+    <div class="game-container">
+        <!-- Area principal -->
+        <div class="main-area">
+            <!-- Header -->
+            <header class="game-header">
+                <h1 class="game-title">¿Quién Quiere Ser Millonario?</h1>
+                <p class="game-subtitle">Responde correctamente y gana el premio mayor</p>
+            </header>
+
+            <!-- Comodines -->
+            <div class="lifelines-bar">
+                <button class="lifeline-btn" id="btn-5050" title="50:50">
+                    <span class="lifeline-text">50:50</span>
+                </button>
+                <button class="lifeline-btn" id="btn-phone" title="Llamada Telefónica">
+                    <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                </button>
+                <button class="lifeline-btn" id="btn-audience" title="Consultar al Público">
+                    <svg viewBox="0 0 24 24" width="26" height="26" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+                </button>
+            </div>
+
+            <!-- Pregunta -->
+            <section class="question-area">
+                <span id="question-counter">Pregunta 1 de 15</span>
+                <h2 id="question-text" class="fade-in">Cargando preguntas...</h2>
+            </section>
+
+            <!-- Opciones -->
+            <div class="options-grid">
+                <button class="option-btn" id="option-0">
+                    <span class="option-letter">A:</span>
+                    <span class="option-text">—</span>
+                </button>
+                <button class="option-btn" id="option-1">
+                    <span class="option-letter">B:</span>
+                    <span class="option-text">—</span>
+                </button>
+                <button class="option-btn" id="option-2">
+                    <span class="option-letter">C:</span>
+                    <span class="option-text">—</span>
+                </button>
+                <button class="option-btn" id="option-3">
+                    <span class="option-letter">D:</span>
+                    <span class="option-text">—</span>
+                </button>
+            </div>
+
+            <!-- Controles -->
+            <div class="controls">
+                <button class="btn btn-confirm" id="confirm-btn" style="display: none;">
+                    <svg viewBox="0 0 24 24" width="18" height="18" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 6px; vertical-align: middle;"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                    Respuesta Final
+                </button>
+                <button class="btn btn-next" id="next-btn" style="display: none;">
+                    Siguiente Pregunta
+                    <svg viewBox="0 0 24 24" width="18" height="18" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" style="margin-left: 6px; vertical-align: middle;"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                </button>
+                <button class="btn btn-retire" id="retire-btn">
+                    <svg viewBox="0 0 24 24" width="18" height="18" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 6px; vertical-align: middle;"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"></path><line x1="4" y1="22" x2="4" y2="15"></line></svg>
+                    Retirarse
+                </button>
+                <button class="btn btn-restart" id="restart-btn" style="display: none;">
+                    <svg viewBox="0 0 24 24" width="18" height="18" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 6px; vertical-align: middle;"><polyline points="23 4 23 10 17 10"></polyline><path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path></svg>
+                    Jugar de Nuevo
+                </button>
+            </div>
+        </div>
+
+        <!-- Sidebar: Premios -->
+        <aside class="sidebar">
+            <div class="prize-panel">
+                <h3 style="display: flex; align-items: center; justify-content: center;">
+                    <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 8px;"><ellipse cx="12" cy="5" rx="9" ry="3"></ellipse><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path></svg>
+                    Premios
+                </h3>
+                <ul id="prize-list">
+                    <!-- Se llena dinamicamente -->
+                </ul>
+            </div>
+        </aside>
+    </div>
+
+    <!-- Modal de mensajes -->
+    <div class="message-overlay" id="message-overlay">
+        <div class="message-box">
+            <h2 id="message-title"></h2>
+            <p id="message-body"></p>
+            <button class="btn btn-restart" id="message-close-btn">Cerrar</button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/game_v2.js') }}?v={{ t }}"></script>
+</body>
+</html>

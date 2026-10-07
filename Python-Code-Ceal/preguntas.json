@@ -1,0 +1,2703 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál es el planeta más cercano al Sol?",
+    "options": [
+      "Venus",
+      "Marte",
+      "Mercurio",
+      "Júpiter"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál es la unidad mínima de información en computación?",
+    "options": [
+      "Byte",
+      "Bit",
+      "Kilobyte",
+      "Hertz"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "¿Qué tecla se usa habitualmente para deshacer la última acción en la mayoría de programas (Ctrl + ...)?",
+    "options": [
+      "Ctrl + C",
+      "Ctrl + V",
+      "Ctrl + Z",
+      "Ctrl + X"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál de los siguientes no es un sistema operativo para computadores?",
+    "options": [
+      "Windows",
+      "Linux",
+      "Android",
+      "macOS"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "¿Qué significan las siglas 'WWW' en una dirección de internet?",
+    "options": [
+      "World Wide Web",
+      "World Web Wide",
+      "Western World Web",
+      "Wide World Web"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "¿Cómo se llama el grupo chileno autor de canciones como 'Tren al Sur' y 'El Baile de los que Sobran'?",
+    "options": [
+      "Los Bunkers",
+      "Los Prisioneros",
+      "La Ley",
+      "Lucybell"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "¿Quién canta la popular canción de pop 'Flowers' lanzada en 2023?",
+    "options": [
+      "Taylor Swift",
+      "Miley Cyrus",
+      "Dua Lipa",
+      "Katy Perry"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question": "¿Qué instrumento musical tiene 88 teclas entre blancas y negras?",
+    "options": [
+      "Guitarra",
+      "Piano",
+      "Acordeón",
+      "Órgano"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "¿Qué cantante puertorriqueño lanzó el exitoso álbum 'Un Verano Sin Ti'?",
+    "options": [
+      "Bad Bunny",
+      "Rauw Alejandro",
+      "J Balvin",
+      "Daddy Yankee"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question": "¿De qué país es originaria la conocida banda de K-pop BTS?",
+    "options": [
+      "Japón",
+      "Corea del Sur",
+      "China",
+      "Tailandia"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál es el álbum más vendido de Michael Jackson?",
+    "options": [
+      "Bad",
+      "Thriller",
+      "Dangerous",
+      "Off the Wall"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question": "¿A qué famosa banda inglesa perteneció John Lennon?",
+    "options": [
+      "The Rolling Stones",
+      "The Beatles",
+      "Queen",
+      "Pink Floyd"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "¿Quién es conocida mundialmente como 'La Reina del Pop'?",
+    "options": [
+      "Britney Spears",
+      "Madonna",
+      "Lady Gaga",
+      "Beyoncé"
+    ],
+    "correct": 1,
+    "difficulty": 1,
+    "used": true
+  },
+  {
+    "id": 14,
+    "question": "¿Qué artista chileno de música urbana canta la canción 'Ultra Solo'?",
+    "options": [
+      "Polimá Westcoast",
+      "Pailita",
+      "Cris Mj",
+      "Pablo Chill-E"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "¿En qué anime el protagonista se convierte en un motosierra tras fusionarse con su mascota Pochita?",
+    "options": [
+      "Chainsaw Man",
+      "Fire Force",
+      "Soul Eater",
+      "D.Gray-man"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question": "¿Quién es el capitán de la tripulación de los Sombrero de Paja en *One Piece*?",
+    "options": [
+      "Zoro",
+      "Luffy",
+      "Sanji",
+      "Usopp"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question": "En la serie *Stranger Things*, ¿cómo se llama la dimensión alternativa y oscura?",
+    "options": [
+      "El Limbo",
+      "El Mundo del Revés (Upside Down)",
+      "La Dimensión X",
+      "El Vacío"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question": "¿Qué anime trata sobre cazadores de demonios donde el protagonista lleva a su hermana Nezuko en una caja?",
+    "options": [
+      "Demon Slayer (Kimetsu no Yaiba)",
+      "Jujutsu Kaisen",
+      "Bleach",
+      "Tokyo Ghoul"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question": "¿Cómo se llama la plataforma donde reside el videojuego *League of Legends*?",
+    "options": [
+      "Steam",
+      "Riot Client",
+      "Epic Games",
+      "Origin"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question": "En la serie *Breaking Bad*, ¿cuál es la profesión inicial de Walter White?",
+    "options": [
+      "Químico farmacéutico",
+      "Profesor de química",
+      "Médico cirujano",
+      "Ingeniero industrial"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question": "En el anime *Attack on Titan* (Shingeki no Kyojin), ¿qué protegen las tres murallas?",
+    "options": [
+      "A los titanes",
+      "A la humanidad",
+      "A los vampiros",
+      "A la orden de los caballeros"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question": "¿En qué serie de televisión aparece la banda criminal conocida como 'Los Peaky Blinders'?",
+    "options": [
+      "Peaky Blinders",
+      "Breaking Bad",
+      "Stranger Things",
+      "Sons of Anarchy"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question": "¿Qué periférico se utiliza principalmente para ingresar texto en una computadora?",
+    "options": [
+      "Teclado",
+      "Monitor",
+      "Mouse",
+      "Impresora"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question": "¿Qué aplicación de mensajería instantánea es propiedad de Meta?",
+    "options": [
+      "Telegram",
+      "WhatsApp",
+      "Discord",
+      "Signal"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question": "¿Qué navegador web fue desarrollado por la empresa Google?",
+    "options": [
+      "Firefox",
+      "Safari",
+      "Chrome",
+      "Edge"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question": "¿Qué significa 'PDF' en el ámbito de documentos digitales?",
+    "options": [
+      "Portable Document Format",
+      "Personal Data File",
+      "Printed Document File",
+      "Program Data Format"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question": "¿Cuántos minutos tiene una hora?",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "120"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question": "¿Cuál es la capital de Francia?",
+    "options": [
+      "Lyon",
+      "París",
+      "Marsella",
+      "Niza"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question": "¿Qué elemento químico tiene el símbolo 'O'?",
+    "options": [
+      "Oro",
+      "Oxígeno",
+      "Osmo",
+      "Olmio"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question": "¿En qué deporte destacó mundialmente el chileno Marcelo Ríos?",
+    "options": [
+      "Fútbol",
+      "Tenis",
+      "Básquetbol",
+      "Natación"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question": "¿Cómo se llama la cordillera que cruza Chile de norte a sur?",
+    "options": [
+      "Los Alpes",
+      "Los Andes",
+      "Los Himalayas",
+      "Los Pirineos"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question": "¿Cuál es el país con mayor cantidad de habitantes en el mundo actualmente?",
+    "options": [
+      "India",
+      "Estados Unidos",
+      "China",
+      "Rusia"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question": "¿Qué órgano del cuerpo humano se encarga de bombear sangre a todo el organismo?",
+    "options": [
+      "Hígado",
+      "Corazón",
+      "Pulmón",
+      "Cerebro"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question": "¿Qué famoso físico formuló la Teoría de la Relatividad?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Nikola Tesla",
+      "Galileo Galilei"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+    "options": [
+      "Oxígeno",
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Hidrógeno"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+    "options": [
+      "1914",
+      "1939",
+      "1945",
+      "1929"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question": "¿Qué personaje es conocido como 'El niño que sobrevivió' en su saga de libros y películas?",
+    "options": [
+      "Percy Jackson",
+      "Harry Potter",
+      "Katniss Everdeen",
+      "Frodo Bolsón"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question": "¿En qué continente se encuentra el desierto del Sahara?",
+    "options": [
+      "Asia",
+      "África",
+      "América",
+      "Oceanía"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question": "¿Cómo se le llama a un circuito por el cual no puede circular corriente porque está interrumpido?",
+    "options": [
+      "Circuito cerrado",
+      "Circuito abierto",
+      "Cortocircuito",
+      "Circuito paralelo"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question": "¿Qué metal es uno de los mejores conductores de electricidad y más usado en cables de casas?",
+    "options": [
+      "Aluminio",
+      "Cobre",
+      "Hierro",
+      "Plomo"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question": "¿Qué aparato se utiliza para medir el consumo o flujo de energía de un circuito?",
+    "options": [
+      "Termómetro",
+      "Multímetro / Polímetro",
+      "Barómetro",
+      "Osciloscopio"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question": "¿Qué elemento electrónico de protección se funde e interrumpe el paso de corriente ante una sobrecarga?",
+    "options": [
+      "Diodo",
+      "Fusible",
+      "Interruptor",
+      "Relé"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question": "¿En qué unidad se mide la diferencia de potencial o voltaje?",
+    "options": [
+      "Amperios",
+      "Voltios",
+      "Watts",
+      "Faradios"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question": "¿Qué componente emite luz cuando pasa corriente a través de él en la polarización correcta?",
+    "options": [
+      "Diodo LED",
+      "Transformador",
+      "Fusible",
+      "Bobina"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question": "¿Qué tipo de corriente entregan las baterías comunes y las pilas?",
+    "options": [
+      "Corriente Alterna (CA)",
+      "Corriente Continua (CC/DC)",
+      "Corriente Trifásica",
+      "Corriente Inductiva"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question": "¿En qué unidad se mide la resistencia eléctrica?",
+    "options": [
+      "Voltios",
+      "Amperios",
+      "Ohmios (Ω)",
+      "Watts"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question": "¿Cuál es el buscador de internet más utilizado en el mundo?",
+    "options": [
+      "Bing",
+      "Google",
+      "Yahoo",
+      "DuckDuckGo"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question": "¿Qué conector USB es reversible y se utiliza estándar en la mayoría de smartphones actuales?",
+    "options": [
+      "USB Type-A",
+      "Micro-USB",
+      "USB Type-C",
+      "Mini-USB"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question": "¿Cuál es el océano más frío y ubicado alrededor del Polo Norte?",
+    "options": [
+      "Océano Índico",
+      "Océano Glacial Ártico",
+      "Océano Atlántico",
+      "Océano Pacífico"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question": "En *Dragon Ball*, ¿cuál es la esfera del dragón que Goku conserva de su abuelo?",
+    "options": [
+      "Una estrella",
+      "Cuatro estrellas",
+      "Siete estrellas",
+      "Tres estrellas"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question": "¿Cuál es la capital de España?",
+    "options": [
+      "Barcelona",
+      "Madrid",
+      "Sevilla",
+      "Valencia"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question": "¿Quién es el hermano de Mario en los videojuegos de Nintendo?",
+    "options": [
+      "Wario",
+      "Luigi",
+      "Toad",
+      "Yoshi"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question": "¿Cuántos planetas tiene actualmente el Sistema Solar?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question": "¿Qué empresa creó Windows?",
+    "options": [
+      "Apple",
+      "IBM",
+      "Microsoft",
+      "Intel"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question": "¿Qué símbolo se utiliza normalmente para indicar una resistencia eléctrica?",
+    "options": [
+      "R",
+      "V",
+      "I",
+      "C"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question": "¿Qué dispositivo almacena datos incluso cuando el computador está apagado?",
+    "options": [
+      "RAM",
+      "CPU",
+      "SSD",
+      "Caché"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question": "¿Cuál es el animal terrestre más grande del mundo?",
+    "options": [
+      "Rinoceronte",
+      "Elefante africano",
+      "Hipopótamo",
+      "Jirafa"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question": "¿Quién pintó la Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Miguel Ángel"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question": "¿Cuántos continentes se consideran habitualmente en el modelo de 7 continentes?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question": "¿Cuál es el país más grande del mundo por superficie?",
+    "options": [
+      "Canadá",
+      "China",
+      "Estados Unidos",
+      "Rusia"
+    ],
+    "correct": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question": "¿Cuál es el baile nacional de Chile?",
+    "options": [
+      "Cueca",
+      "Cumbia",
+      "Tonada",
+      "Saya"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question": "¿Cuál es el nombre del protagonista de One Punch Man?",
+    "options": [
+      "Genos",
+      "Saitama",
+      "Garou",
+      "King"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "question": "¿Qué océano se encuentra frente a la costa chilena?",
+    "options": [
+      "Atlántico",
+      "Pacífico",
+      "Índico",
+      "Ártico"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question": "¿Quién es conocido como uno de los principales líderes de la independencia de Chile?",
+    "options": [
+      "Bernardo O'Higgins",
+      "Diego Portales",
+      "Arturo Prat",
+      "Manuel Rodríguez"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question": "¿En qué año Chile declaró su independencia?",
+    "options": [
+      "1808",
+      "1810",
+      "1818",
+      "1823"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 66,
+    "question": "¿Cuál es la capital de Chile?",
+    "options": [
+      "Valparaíso",
+      "Santiago",
+      "Concepción",
+      "La Serena"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question": "¿Cuál de estos dispositivos se utiliza para medir voltaje?",
+    "options": [
+      "Amperímetro",
+      "Voltímetro",
+      "Ohmímetro",
+      "Osciloscopio"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question": "¿Qué personaje utiliza un cuaderno capaz de matar personas en Death Note?",
+    "options": [
+      "L",
+      "Near",
+      "Light Yagami",
+      "Ryuk"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 69,
+    "question": "¿Qué significa CPU?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Computer Processing Utility"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question": "¿Cuál es el idioma más hablado como lengua materna en el mundo?",
+    "options": [
+      "Inglés",
+      "Español",
+      "Chino mandarín",
+      "Hindi"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question": "¿Qué lenguaje se utiliza principalmente para estructurar una página web?",
+    "options": [
+      "HTML",
+      "Python",
+      "C++",
+      "SQL"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 72,
+    "question": "¿Qué componente se utiliza principalmente para almacenar energía eléctrica en un circuito?",
+    "options": [
+      "Resistencia",
+      "Diodo",
+      "Condensador",
+      "Transistor"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question": "¿Cuál es la moneda oficial de Chile?",
+    "options": [
+      "Peso",
+      "Sol",
+      "Escudo",
+      "Real"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "question": "¿Quién es el protagonista principal de Naruto?",
+    "options": [
+      "Sasuke",
+      "Naruto",
+      "Kakashi",
+      "Itachi"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 75,
+    "question": "¿Cuántos lados tiene un triángulo?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question": "¿Qué comando de Git se usa para subir los cambios locales a un repositorio remoto?",
+    "options": [
+      "git pull",
+      "git push",
+      "git commit",
+      "git merge"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question": "¿Qué propiedad electrónica mide la capacidad de un capacitor para almacenar carga por unidad de voltaje?",
+    "options": [
+      "Inductancia",
+      "Capacitancia",
+      "Impedancia",
+      "Conductancia"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question": "¿Qué tipo de diodo se utiliza comúnmente para regular voltaje manteniendo una tensión constante?",
+    "options": [
+      "Diodo Zener",
+      "Diodo LED",
+      "Diodo Schottky",
+      "Fotodiodo"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 79,
+    "question": "¿Cómo varía la resistencia de un termistor NTC al aumentar la temperatura?",
+    "options": [
+      "Aumenta",
+      "Disminuye",
+      "Permanece constante",
+      "Se vuelve infinita"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question": "¿En qué unidad se mide la frecuencia de una señal eléctrica periódica?",
+    "options": [
+      "Hertz (Hz)",
+      "Faradios (F)",
+      "Henrios (H)",
+      "Tesla (T)"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question": "¿Cuál es el país con la mayor longitud de costa del mundo?",
+    "options": [
+      "Rusia",
+      "Canadá",
+      "Australia",
+      "Chile"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 82,
+    "question": "¿En qué año cayó el Muro de Berlín, marcando el fin de la Guerra Fría en Europa?",
+    "options": [
+      "1989",
+      "1991",
+      "1975",
+      "1981"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 83,
+    "question": "¿Qué civilización antigua construyó el Coliseo en Roma?",
+    "options": [
+      "Grecia Antigua",
+      "Imperio Romano",
+      "Imperio Bizantino",
+      "Fenicios"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 84,
+    "question": "¿Cuál es el elemento químico sintético o natural con número atómico 1 en la tabla periódica?",
+    "options": [
+      "Helio",
+      "Hidrógeno",
+      "Litio",
+      "Carbono"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 85,
+    "question": "¿Quién escribió la obra teatral 'Romeo y Julieta'?",
+    "options": [
+      "Miguel de Cervantes",
+      "William Shakespeare",
+      "Molière",
+      "Dante Alighieri"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 86,
+    "question": "¿Qué instrumento de laboratorio permite visualizar formas de onda de señales eléctricas en función del tiempo?",
+    "options": [
+      "Multímetro",
+      "Osciloscopio",
+      "Generador de funciones",
+      "Wattmetro"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 87,
+    "question": "¿Cuál es la fosa oceánica más profunda del mundo conocida?",
+    "options": [
+      "Fosa de las Marianas",
+      "Fosa de Puerto Rico",
+      "Fosa de Atacama",
+      "Fosa de Java"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 88,
+    "question": "¿En qué serie de animación el científico Rick Sanchez viaja por dimensiones con su nieto?",
+    "options": [
+      "Futurama",
+      "Rick y Morty",
+      "Gravity Falls",
+      "Adventure Time"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 89,
+    "question": "¿Cuál es la velocidad aproximada de la luz en el vacío?",
+    "options": [
+      "300.000 km/s",
+      "150.000 km/s",
+      "1.000.000 km/s",
+      "30.000 km/s"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 90,
+    "question": "¿Qué científico es considerado el padre de la genética por sus experimentos con plantas de arvejas?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Alexander Fleming"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 91,
+    "question": "¿Qué país sudamericano no comparte frontera con Brasil?",
+    "options": [
+      "Chile",
+      "Argentina",
+      "Perú",
+      "Colombia"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 92,
+    "question": "¿En qué año llegó el ser humano a la Luna por primera vez con la misión Apolo 11?",
+    "options": [
+      "1965",
+      "1969",
+      "1972",
+      "1959"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 93,
+    "question": "¿Qué desierto en el norte de Chile es considerado el más árido del mundo?",
+    "options": [
+      "Desierto de Atacama",
+      "Desierto de Mojave",
+      "Desierto de Gobi",
+      "Desierto del Sahara"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 94,
+    "question": "En *Naruto Shippuden*, ¿quién es el fundador y líder de la organización Akatsuki junto a Konan y Yahiko?",
+    "options": [
+      "Itachi Uchiha",
+      "Obito Uchiha",
+      "Nagato (Pain)",
+      "Orochimaru"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 95,
+    "question": "¿Qué científico descubrió la penicilina en 1928?",
+    "options": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch",
+      "Edward Jenner"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 96,
+    "question": "¿Cuál es la capital de Canadá?",
+    "options": [
+      "Toronto",
+      "Ottawa",
+      "Vancouver",
+      "Montreal"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 97,
+    "question": "¿Qué movimiento artístico y literario lideró Salvador Dalí con sus obras de relojes blandos?",
+    "options": [
+      "Cubismo",
+      "Surrealismo",
+      "Impresionismo",
+      "Expresionismo"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 98,
+    "question": "En un circuito con dos resistencias R1=10Ω y R2=10Ω conectadas en paralelo, ¿cuál es la resistencia equivalente?",
+    "options": [
+      "20 Ω",
+      "5 Ω",
+      "10 Ω",
+      "1 Ω"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 99,
+    "question": "¿Qué ley física establece que V = I * R en un circuito eléctrico?",
+    "options": [
+      "Ley de Watt",
+      "Ley de Ohm",
+      "Ley de Faraday",
+      "Ley de Ampere"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 100,
+    "question": "En *My Hero Academia*, ¿cuál es el nombre del Don / Quirk original de All Might y Deku?",
+    "options": [
+      "One For All",
+      "All For One",
+      "Explosion",
+      "Half-Cold Half-Hot"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 101,
+    "question": "En la programación web moderna, ¿qué librería/framework de JavaScript fue desarrollada por Facebook?",
+    "options": [
+      "Angular",
+      "React",
+      "Vue",
+      "Svelte"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 102,
+    "question": "¿Cuál de las siguientes es una base de datos NoSQL ampliamente utilizada basada en documentos?",
+    "options": [
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "SQLite"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 103,
+    "question": "¿Qué puerto de red estandarizado utiliza habitualmente el protocolo HTTP?",
+    "options": [
+      "Puerto 80",
+      "Puerto 443",
+      "Puerto 22",
+      "Puerto 21"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 104,
+    "question": "¿Qué extensión de archivo se utiliza comúnmente para hojas de estilo en cascada en la web?",
+    "options": [
+      ".css",
+      ".html",
+      ".js",
+      ".php"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 105,
+    "question": "En programación, ¿cómo se le llama al proceso de encontrar y corregir errores en el código fuente?",
+    "options": [
+      "Compilación",
+      "Debugging (depuración)",
+      "Refactorización",
+      "Despliegue"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 106,
+    "question": "¿Qué arquitectura de procesadores utilizan la mayoría de los chips Apple Silicon (M1/M2/M3) y smartphones?",
+    "options": [
+      "x86",
+      "ARM",
+      "RISC-V",
+      "MIPS"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 107,
+    "question": "¿Qué protocolo de capa de aplicación se utiliza para la transferencia segura de páginas web encriptadas?",
+    "options": [
+      "HTTP",
+      "HTTPS",
+      "FTP",
+      "SSH"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 108,
+    "question": "En bases de datos relacionales, ¿qué cláusula SQL se utiliza para filtrar filas según una condición?",
+    "options": [
+      "GROUP BY",
+      "WHERE",
+      "ORDER BY",
+      "JOIN"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 109,
+    "question": "¿Qué artista pop lanzó el exitoso álbum 'Future Nostalgia' en 2020?",
+    "options": [
+      "Dua Lipa",
+      "Olivia Rodrigo",
+      "Billie Eilish",
+      "Ariana Grande"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 110,
+    "question": "¿Qué género musical tiene sus orígenes en Jamaica a finales de los años 1960?",
+    "options": [
+      "Reggae",
+      "Salsa",
+      "Merengue",
+      "Ska"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 111,
+    "question": "¿Qué componente de tres terminales (base, colector y emisor) se usa como amplificador o conmutador?",
+    "options": [
+      "Diodo",
+      "Transistor BJT",
+      "Capacitor",
+      "Inductor"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 112,
+    "question": "¿Cuál es el festival de música electrónica más grande del mundo, realizado anualmente en Bélgica?",
+    "options": [
+      "Tomorrowland",
+      "Ultra Music Festival",
+      "Coachella",
+      "Lollapalooza"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 113,
+    "question": "¿De qué banda de rock alternativo fue vocalista Kurt Cobain?",
+    "options": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 114,
+    "question": "¿Qué cantante británica interpreta el tema oficial 'Skyfall' de James Bond?",
+    "options": [
+      "Adele",
+      "Dua Lipa",
+      "Florence Welch",
+      "Ellie Goulding"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 115,
+    "question": "¿Qué álbum de la banda británica Pink Floyd lanzado en 1973 cuenta con la famosa portada del prisma?",
+    "options": [
+      "The Wall",
+      "The Dark Side of the Moon",
+      "Wish You Were Here",
+      "Animals"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 116,
+    "question": "En la serie *The Office* (EE.UU.), ¿en qué ciudad de Pensilvania se ubica la sucursal de Dunder Mifflin?",
+    "options": [
+      "Scranton",
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 117,
+    "question": "¿Cuál es el nombre de la superheroína protagonista de *Miraculous*?",
+    "options": [
+      "Ladybug",
+      "Cat Noir",
+      "Starfire",
+      "Raven"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 118,
+    "question": "En *Hunter x Hunter*, ¿qué tipo de Nen tiene el protagonista Gon Freecss?",
+    "options": [
+      "Intensificación",
+      "Transformación",
+      "Materialización",
+      "Especialización"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 119,
+    "question": "¿En qué ciudad transcurre principalmente la serie *Stranger Things*?",
+    "options": [
+      "Hawkins",
+      "Springfield",
+      "Riverdale",
+      "Sunnydale"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 120,
+    "question": "En el anime *Death Note*, ¿cuál es el verdadero nombre del detective conocido como 'L'?",
+    "options": [
+      "L Lawliet",
+      "Light Yagami",
+      "Near",
+      "Mello"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 121,
+    "question": "¿Qué serie de Netflix narra la historia de los jugadores de ajedrez Beth Harmon?",
+    "options": [
+      "Gambito de Dama",
+      "The Crown",
+      "Dark",
+      "Mindhunter"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 122,
+    "question": "¿Qué sistema operativo de código abierto utiliza el pingüino Tux como mascota?",
+    "options": [
+      "FreeBSD",
+      "Linux",
+      "Solaris",
+      "Android"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 123,
+    "question": "¿Qué banda chilena lanzó el aclamado disco 'Alturas de Macchu Picchu'?",
+    "options": [
+      "Los Jaivas",
+      "Los Prisioneros",
+      "Illapu",
+      "Congreso"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 124,
+    "question": "¿Quién compuso la famosa 'Sinfonía No. 9' (Himno a la Alegría) estando ya sordo?",
+    "options": [
+      "Mozart",
+      "Beethoven",
+      "Bach",
+      "Tchaikovsky"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 125,
+    "question": "¿Cuál es el río más largo de Sudamérica?",
+    "options": [
+      "Paraná",
+      "Amazonas",
+      "Orinoco",
+      "Magdalena"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 126,
+    "question": "En la serie *Game of Thrones*, ¿cuál es el lema oficial de la Casa Stark?",
+    "options": [
+      "Fuego y Sangre",
+      "Se acerca el Invierno",
+      "Oye mi Rugido",
+      "Un Lannister siempre paga sus deudas"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 127,
+    "question": "¿Cuál de estos sistemas de control de versiones es distribuido?",
+    "options": [
+      "Git",
+      "FTP",
+      "HTTP",
+      "SMTP"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 128,
+    "question": "¿Qué significa SQL?",
+    "options": [
+      "System Query Language",
+      "Structured Query Language",
+      "Simple Query Logic",
+      "Standard Question Language"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 129,
+    "question": "Si una resistencia de 10 Ω tiene una corriente de 2 A, ¿qué voltaje hay según la Ley de Ohm?",
+    "options": [
+      "5 V",
+      "10 V",
+      "20 V",
+      "40 V"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 130,
+    "question": "¿Qué científico formuló las leyes del movimiento y la gravitación universal?",
+    "options": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Nikola Tesla"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 131,
+    "question": "¿Cuál fue la civilización que construyó Machu Picchu?",
+    "options": [
+      "Maya",
+      "Azteca",
+      "Inca",
+      "Olmeca"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 132,
+    "question": "¿En qué país se encuentran las pirámides de Guiza?",
+    "options": [
+      "México",
+      "Egipto",
+      "Perú",
+      "Irak"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 133,
+    "question": "¿Qué ciudad es conocida como la \"joya del Pacífico\"?",
+    "options": [
+      "Arica",
+      "Valparaíso",
+      "Antofagasta",
+      "Iquique"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 134,
+    "question": "¿Cuál de estas islas pertenece a Chile y es famosa por sus moáis?",
+    "options": [
+      "Juan Fernández",
+      "Chiloé",
+      "Isla de Pascua / Rapa Nui",
+      "Mocha"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 135,
+    "question": "¿Qué premio Nobel recibió Pablo Neruda?",
+    "options": [
+      "Física",
+      "Medicina",
+      "Literatura",
+      "Paz"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 136,
+    "question": "¿Quién escribió Desolación y Tala?",
+    "options": [
+      "Isabel Allende",
+      "Gabriela Mistral",
+      "María Luisa Bombal",
+      "Marcela Paz"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 137,
+    "question": "¿En qué batalla murió Arturo Prat?",
+    "options": [
+      "Batalla de Maipú",
+      "Batalla de Chacabuco",
+      "Combate Naval de Iquique",
+      "Batalla de Yungay"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 138,
+    "question": "¿Quién fue Arturo Prat?",
+    "options": [
+      "Presidente de Chile",
+      "Escritor chileno",
+      "Capitán de la Armada de Chile",
+      "Explorador de la Patagonia"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 139,
+    "question": "¿Qué territorio fue incorporado por Chile después de la Guerra del Pacífico?",
+    "options": [
+      "Chiloé",
+      "La Araucanía",
+      "Antofagasta y Tarapacá",
+      "Magallanes"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 140,
+    "question": "¿Qué ocurrió el 18 de septiembre de 1810 en Chile?",
+    "options": [
+      "Se firmó la independencia definitiva",
+      "Se inició la Primera Junta Nacional de Gobierno",
+      "Terminó la Guerra del Pacífico",
+      "Se promulgó la Constitución de 1833"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 141,
+    "question": "¿Cuál es el océano más grande del mundo?",
+    "options": [
+      "Atlántico",
+      "Índico",
+      "Pacífico",
+      "Ártico"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 142,
+    "question": "En Pokémon, ¿qué tipo es Pikachu?",
+    "options": [
+      "Fuego",
+      "Eléctrico",
+      "Rayo",
+      "Normal"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 143,
+    "question": "¿Qué estructura de datos funciona normalmente bajo el principio LIFO?",
+    "options": [
+      "Cola",
+      "Árbol",
+      "Pila",
+      "Lista"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 144,
+    "question": "¿Cuál de estos componentes permite controlar el flujo de corriente dependiendo de una señal eléctrica?",
+    "options": [
+      "Transistor",
+      "Condensador",
+      "Fusible",
+      "Interruptor mecánico"
+    ],
+    "correct": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 145,
+    "question": "¿Cuál es la capital de Australia?",
+    "options": [
+      "Sídney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 146,
+    "question": "¿Qué empresa desarrolló la consola PlayStation?",
+    "options": [
+      "Nintendo",
+      "Sega",
+      "Microsoft",
+      "Sony"
+    ],
+    "correct": 3,
+    "difficulty": 2
+  },
+  {
+    "id": 147,
+    "question": "En Dragon Ball, ¿cómo se llama la transformación que permite a Goku alcanzar inicialmente el cabello dorado?",
+    "options": [
+      "Kaioken",
+      "Ultra Instinto",
+      "Super Saiyajin",
+      "Super Saiyajin Dios"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 148,
+    "question": "¿Qué lenguaje de programación utiliza la extensión .py?",
+    "options": [
+      "PHP",
+      "Python",
+      "Perl",
+      "Pascal"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 149,
+    "question": "¿Qué puerta lógica entrega 1 solamente cuando todas sus entradas son 1?",
+    "options": [
+      "OR",
+      "XOR",
+      "AND",
+      "NOT"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 150,
+    "question": "¿Cuál de estos videojuegos fue desarrollado originalmente por Mojang?",
+    "options": [
+      "Terraria",
+      "Minecraft",
+      "Roblox",
+      "Fortnite"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 151,
+    "question": "¿Qué importante física y química polaca fue la primera persona en recibir dos premios Nobel en distintas especialidades?",
+    "options": [
+      "Marie Curie",
+      "Lise Meitner",
+      "Rosalind Franklin",
+      "Irène Joliot-Curie"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 152,
+    "question": "¿Qué patrón de diseño de software (GoF) asegura que una clase tenga únicamente una instancia y proporciona un punto de acceso global a ella?",
+    "options": [
+      "Singleton",
+      "Factory Method",
+      "Observer",
+      "Decorator"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 153,
+    "question": "¿En qué consiste el principio de Inversión de Dependencias (la 'D' de SOLID)?",
+    "options": [
+      "Módulos de alto nivel no deben depender de módulos de bajo nivel; ambos deben depender de abstracciones",
+      "Las clases deben estar abiertas a extensión pero cerradas a modificación",
+      "Una clase debe tener una sola razón para cambiar",
+      "Interfaces específicas son mejores que una interfaz multipropósito"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 154,
+    "question": "¿Qué vulnerabilidad de seguridad ocurre cuando una aplicación web no valida ni sanitiza entradas permitiendo ejecutar scripts en el navegador del usuario?",
+    "options": [
+      "Cross-Site Scripting (XSS)",
+      "SQL Injection",
+      "CSRF",
+      "Buffer Overflow"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 155,
+    "question": "¿Quién escribió la obra cumbre de la literatura épica italiana 'La Divina Comedia'?",
+    "options": [
+      "Dante Alighieri",
+      "Giovanni Boccaccio",
+      "Francesco Petrarca",
+      "Niccolò Machiavelli"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 156,
+    "question": "¿En qué isla del Atlántico Sur murió exiliado Napoleón Bonaparte en 1821?",
+    "options": [
+      "Santa Elena",
+      "Elba",
+      "Córcega",
+      "Mallorca"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 157,
+    "question": "En criptografía asimétrica, ¿qué algoritmo se basa en la dificultad matemática de factorizar el producto de dos números primos grandes?",
+    "options": [
+      "RSA",
+      "AES",
+      "SHA-256",
+      "Diffie-Hellman"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 158,
+    "question": "¿De qué álbum conceptual de Pink Floyd forma parte el tema 'Comfortably Numb'?",
+    "options": [
+      "The Wall",
+      "Animals",
+      "Wish You Were Here",
+      "Meddle"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 159,
+    "question": "En diseño de bases de datos, ¿cuál es la Forma Normal (NF) que exige eliminar todas las dependencias transitivas?",
+    "options": [
+      "Tercera Forma Normal (3NF)",
+      "Segunda Forma Normal (2NF)",
+      "Forma Normal de Boyce-Codd (BCNF)",
+      "Cuarta Forma Normal (4NF)"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 160,
+    "question": "¿Qué técnica de optimización en programación funcional reemplaza las llamadas recursivas por bucles para evitar el desbordamiento de pila?",
+    "options": [
+      "Tail Call Optimization (TCO)",
+      "Memoización",
+      "Currying",
+      "Garbage Collection"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 161,
+    "question": "¿Cuál es el teorema informático que establece que un sistema distribuido no puede ofrecer simultáneamente Consistencia, Disponibilidad y Tolerancia a particiones?",
+    "options": [
+      "Teorema CAP",
+      "Teorema de PACELC",
+      "Teorema de Shannon",
+      "Teorema de Bayes"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 162,
+    "question": "En arquitectura de redes de computadores, ¿en qué capa del modelo OSI opera el protocolo IP?",
+    "options": [
+      "Capa de Enlace",
+      "Capa de Transporte",
+      "Capa de Red",
+      "Capa de Aplicación"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 163,
+    "question": "¿Cuál es el elemento más denso de la tabla periódica en condiciones normales?",
+    "options": [
+      "Osmio",
+      "Iridio",
+      "Plomo",
+      "Uranio"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 164,
+    "question": "¿Qué nombre recibe el acorde formado por una tónica, una tercera menor, una quinta disminuida y una séptima disminuida?",
+    "options": [
+      "Acorde disminuido con séptima (o totalmente disminuido)",
+      "Acorde semi-disminuido",
+      "Acorde menor con séptima",
+      "Acorde aumentado"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 165,
+    "question": "¿Qué afamado guitarrista es considerado por muchos como el pionero en popularizar el tapping con dos manos en el rock duro?",
+    "options": [
+      "Eddie Van Halen",
+      "Jimi Hendrix",
+      "Eric Clapton",
+      "Jimmy Page"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 166,
+    "question": "¿Qué algoritmo de ordenamiento tiene un rendimiento de O(n^2) en el peor caso pero O(n log n) en el caso promedio?",
+    "options": [
+      "QuickSort",
+      "MergeSort",
+      "HeapSort",
+      "Counting Sort"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 167,
+    "question": "¿Qué famoso cuadro de Picasso representa el bombardeo de una villa vasca durante la Guerra Civil Española?",
+    "options": [
+      "Guernica",
+      "Las Señoritas de Avignon",
+      "El viejo guitarrista",
+      "Los tres músicos"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 168,
+    "question": "¿Qué tipo de modulación varía la frecuencia de una onda portadora proporcionalmente a la señal de mensaje?",
+    "options": [
+      "Modulación de Frecuencia (FM)",
+      "Modulación de Amplitud (AM)",
+      "Modulación por Ancho de Pulsos (PWM)",
+      "Modulación de Fase (PM)"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 169,
+    "question": "¿Qué acontecimiento histórico desató la Primera Guerra Mundial en junio de 1914?",
+    "options": [
+      "El asesinato del archiduque Francisco Fernando en Sarajevo",
+      "La invasión de Polonia",
+      "El hundimiento del Lusitania",
+      "La revolución rusa"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 170,
+    "question": "¿Cuál es la ganancia de voltaje teórica ideal de un amplificador operacional (Op-Amp) en lazo abierto?",
+    "options": [
+      "Cero",
+      "Uno",
+      "1000",
+      "Infinita"
+    ],
+    "correct": 3,
+    "difficulty": 3
+  },
+  {
+    "id": 171,
+    "question": "¿Qué estructura de datos es un árbol de búsqueda auto-balanceado donde cada nodo tiene un color (rojo o negro) para garantizar O(log n)?",
+    "options": [
+      "Árbol Rojo-Negro",
+      "Árbol B+",
+      "Trie",
+      "Heap binario"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 172,
+    "question": "¿Qué teorema de redes eléctricas permite simplificar un circuito lineal complejo a una fuente de voltaje equivalente en serie con una resistencia?",
+    "options": [
+      "Teorema de Thévenin",
+      "Teorema de Norton",
+      "Teorema de Superposición",
+      "Teorema de Máxima Transferencia de Potencia"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 173,
+    "question": "En el análisis de respuesta en frecuencia, ¿a cuántos decibelios (dB) corresponde el punto de corte o frecuencia de media potencia?",
+    "options": [
+      "-3 dB",
+      "-6 dB",
+      "0 dB",
+      "-10 dB"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 174,
+    "question": "En lógica digital, ¿cuál es el mapa simplificado de Karnaugh usado para minimizar funciones booleanas de hasta 4 o 5 variables?",
+    "options": [
+      "Mapa de Karnaugh (K-map)",
+      "Diagrama de Bode",
+      "Carta de Smith",
+      "Diagrama de Nyquist"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 175,
+    "question": "¿Qué fenómeno físico en semiconductores ocurre cuando una alta tensión inversa causa una multiplicación en avalancha de portadores de carga?",
+    "options": [
+      "Efecto Avalancha / Ruptura Zener",
+      "Efecto Hall",
+      "Efecto Seebeck",
+      "Efecto Fotoeléctrico"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 176,
+    "question": "¿Qué tipo de filtro electrónico deja pasar señales con frecuencias más altas que la frecuencia de corte y atenúa las más bajas?",
+    "options": [
+      "Filtro Pasa Altos",
+      "Filtro Pasa Bajas",
+      "Filtro Pasa Banda",
+      "Filtro Rechaza Banda"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 177,
+    "question": "¿Qué parámetro de un transistor MOSFET indica la relación entre la variación de corriente de drenador y la variación de voltaje puerta-fuente?",
+    "options": [
+      "Transconductancia (gm)",
+      "Beta (β)",
+      "Factor de amplificación",
+      "Resistencia de canal Rds"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 178,
+    "question": "¿Qué configuración de Op-Amp entrega una salida Vout = - (Rf / Rin) * Vin?",
+    "options": [
+      "Inversor",
+      "No Inversor",
+      "Seguidor de voltaje",
+      "Diferenciador"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 179,
+    "question": "¿Qué ecuación relaciona la densidad de corriente con el campo eléctrico y la conductividad en la forma microscópica de la Ley de Ohm?",
+    "options": [
+      "J = σ * E",
+      "V = I * R",
+      "F = q * E",
+      "P = V * I"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 180,
+    "question": "¿En qué tratado de 1494 España y Portugal se repartieron las tierras descubiertas en el Nuevo Mundo?",
+    "options": [
+      "Tratado de Tordesillas",
+      "Tratado de Utrecht",
+      "Tratado de Versalles",
+      "Tratado de Zaragoza"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 181,
+    "question": "¿Qué filósofo griego escribió 'La República' y formuló el famoso Mito de la Caverna?",
+    "options": [
+      "Platón",
+      "Aristóteles",
+      "Sócrates",
+      "Heráclito"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 182,
+    "question": "¿Cuál es la partícula subatómica elemental según el Modelo Estándar responsable de otorgar masa a otras partículas?",
+    "options": [
+      "Bosón de Higgs",
+      "Fotón",
+      "Gluón",
+      "Neutrino"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 183,
+    "question": "¿Qué imperio estuvo gobernado por Solimán el Magnífico durante su época de máximo esplendor en el siglo XVI?",
+    "options": [
+      "Imperio Otomano",
+      "Imperio Persa",
+      "Imperio Bizantino",
+      "Imperio Mongol"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 184,
+    "question": "¿Cuál es el número irracional aproximado a 1.618 conocido como la Proporción Áurea?",
+    "options": [
+      "Número Áureo (Phi)",
+      "Número e",
+      "Número Pi",
+      "Constante de Euler"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 185,
+    "question": "¿En qué país actual se encuentran los restos de la antigua ciudad fenicia de Cartago?",
+    "options": [
+      "Túnez",
+      "Líbano",
+      "Egipto",
+      "Siria"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 186,
+    "question": "¿Qué compositor escribió el famoso ballet 'La Consagración de la Primavera' cuyos ritmos provocaron un motín en su estreno en 1913?",
+    "options": [
+      "Igor Stravinsky",
+      "Claude Debussy",
+      "Maurice Ravel",
+      "Arnold Schoenberg"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 187,
+    "question": "En One Piece, ¿cómo se llama el barco principal de los Sombrero de Paja después del Going Merry?",
+    "options": [
+      "Red Force",
+      "Thousand Sunny",
+      "Oro Jackson",
+      "Polar Tang"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 188,
+    "question": "¿Cuál es la escala musical pentatónica menor en la tonalidad de La (A)?",
+    "options": [
+      "A - C - D - E - G",
+      "A - B - C - D - E",
+      "A - C# - D - E - G#",
+      "A - D - E - F - G"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 189,
+    "question": "¿Cuál de estos imperios tuvo como capital a Constantinopla?",
+    "options": [
+      "Imperio Romano de Occidente",
+      "Imperio Bizantino",
+      "Imperio Mongol",
+      "Imperio Persa"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 190,
+    "question": "¿Qué Constitución chilena fue promulgada durante el gobierno de José Joaquín Prieto?",
+    "options": [
+      "Constitución de 1818",
+      "Constitución de 1828",
+      "Constitución de 1833",
+      "Constitución de 1925"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 191,
+    "question": "¿Qué conflicto ocurrió en Chile en 1891 y terminó con la muerte de José Manuel Balmaceda?",
+    "options": [
+      "Guerra del Pacífico",
+      "Guerra Civil de 1891",
+      "Revolución de 1851",
+      "Guerra contra la Confederación Perú-Boliviana"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 192,
+    "question": "¿En qué año comenzó la Guerra del Pacífico?",
+    "options": [
+      "1865",
+      "1879",
+      "1881",
+      "1891"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 193,
+    "question": "¿Qué tratado puso fin oficialmente a la Guerra del Pacífico entre Chile y Perú?",
+    "options": [
+      "Tratado de Ancón",
+      "Tratado de Lima",
+      "Tratado de Valparaíso",
+      "Tratado de Santiago"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 194,
+    "question": "¿Quién fue Diego Portales?",
+    "options": [
+      "Un militar de la Guerra del Pacífico",
+      "Un importante político chileno del siglo XIX",
+      "Un presidente de Chile",
+      "Un líder mapuche"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 195,
+    "question": "¿Qué batalla marcó la consolidación de la independencia de Chile en 1818?",
+    "options": [
+      "Chacabuco",
+      "Maipú",
+      "Rancagua",
+      "Cancha Rayada"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 196,
+    "question": "¿Cuál de estos algoritmos tiene una complejidad temporal promedio de O(n log n)?",
+    "options": [
+      "Búsqueda lineal",
+      "Bubble Sort",
+      "Merge Sort",
+      "Búsqueda binaria"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 197,
+    "question": "¿Cuál es la representación hexadecimal del número decimal 255?",
+    "options": [
+      "FF",
+      "AF",
+      "0F",
+      "F0"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 198,
+    "question": "¿Qué componente se utiliza habitualmente para convertir corriente alterna en corriente continua?",
+    "options": [
+      "Rectificador",
+      "Transformador",
+      "Transistor",
+      "Oscilador"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 199,
+    "question": "En Attack on Titan, ¿cuál es el nombre del titán de Eren inicialmente?",
+    "options": [
+      "Titán Bestia",
+      "Titán Acorazado",
+      "Titán de Ataque",
+      "Titán Colosal"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 200,
+    "question": "En programación orientada a objetos, ¿qué concepto permite que una clase herede características de otra?",
+    "options": [
+      "Encapsulamiento",
+      "Polimorfismo",
+      "Herencia",
+      "Abstracción"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 201,
+    "question": "¿Qué principio establece que la corriente que entra a un nodo eléctrico es igual a la corriente que sale?",
+    "options": [
+      "Ley de Ohm",
+      "Ley de Faraday",
+      "Ley de Kirchhoff de corrientes",
+      "Ley de Coulomb"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 202,
+    "question": "¿Qué protocolo se utiliza principalmente para traducir nombres de dominio como google.com a direcciones IP?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "DNS",
+      "SSH"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 203,
+    "question": "¿Qué componente electrónico se utiliza para permitir el paso de corriente principalmente en una sola dirección?",
+    "options": [
+      "Transistor",
+      "Diodo",
+      "Relé",
+      "Potenciómetro"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 204,
+    "question": "¿Qué tratado puso fin oficialmente a la Primera Guerra Mundial entre Alemania y las potencias aliadas?",
+    "options": [
+      "Tratado de París",
+      "Tratado de Versalles",
+      "Tratado de Viena",
+      "Tratado de Roma"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 205,
+    "question": "En Steins;Gate, ¿cuál es el nombre del protagonista?",
+    "options": [
+      "Itaru Hashida",
+      "Rintarou Okabe",
+      "Shintarou Midori",
+      "Kyouma Hashida"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 206,
+    "question": "En Jujutsu Kaisen, ¿qué técnica está asociada principalmente con Satoru Gojo?",
+    "options": [
+      "Diez Sombras",
+      "Manipulación de Sangre",
+      "Limitless",
+      "Black Flash"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "id": 207,
+    "question": "¿Qué estructura de datos se utiliza habitualmente para implementar una cola de prioridad eficiente?",
+    "options": [
+      "Heap",
+      "Stack",
+      "Array simple",
+      "Lista circular"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 208,
+    "question": "¿Qué técnico de sonido y productor produjo el icónico álbum *Nevermind* de Nirvana?",
+    "options": [
+      "Butch Vig",
+      "Rick Rubin",
+      "Steve Albini",
+      "George Martin"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 209,
+    "question": "¿En qué álbum de *The Beatles* lanzado en 1969 aparece la banda cruzando un paso de cebra en la portada?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Abbey Road",
+      "Revolver",
+      "Let It Be"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 210,
+    "question": "En *Jojo's Bizarre Adventure Part 3*, ¿cuál es el poder principal del Stand 'The World' de Dio?",
+    "options": [
+      "Detener el tiempo",
+      "Borrar el espacio",
+      "Predecir el futuro",
+      "Rebobinar el tiempo 1 hora"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 211,
+    "question": "En *Monster* de Naoki Urasawa, ¿cuál es el nombre del médico neurocirujano protagonista?",
+    "options": [
+      "Kenzo Tenma",
+      "Johan Liebert",
+      "Heinrich Lunge",
+      "Wolfgang Grimmer"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 212,
+    "question": "En la serie *Mr. Robot*, ¿cómo se llama el grupo de hackers liderado por Elliot Alderson?",
+    "options": [
+      "fsociety",
+      "Dark Army",
+      "E Corp",
+      "Anonymous"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 213,
+    "question": "En *Code Geass*, ¿cuál es la orden absoluta que Lelouch le da a Euphie por accidente debido al descontrol de su Geass?",
+    "options": [
+      "Matar a todos los japoneses",
+      "Entregar el imperio",
+      "Aprender a luchar",
+      "Dormir por siempre"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 214,
+    "question": "En el anime *Fate/Zero*, ¿cuál es la verdadera identidad del Servant de clase Archer (Gilgamesh)?",
+    "options": [
+      "El rey de Uruk",
+      "El rey de Bretaña",
+      "Alejandro Magno",
+      "Hércules"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 215,
+    "question": "¿Qué famoso festival de música de 1969 se anunció como '3 días de paz y música' en un campo de Bethel, Nueva York?",
+    "options": [
+      "Woodstock",
+      "Monterey Pop",
+      "Isle of Wight",
+      "Altamont"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 216,
+    "question": "En *Fullmetal Alchemist: Brotherhood*, ¿cuál es la primera ley fundamental de la alquimia?",
+    "options": [
+      "Intercambio Equivalente",
+      "Ley de Conservación de Masa",
+      "Ley de la Transmutación Divina",
+      "Principio de la Piedra Filosofal"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 217,
+    "question": "En la serie *Dark* de Netflix, ¿cuántos años dura el ciclo temporal que conecta los eventos de Winden?",
+    "options": [
+      "33 años",
+      "25 años",
+      "50 años",
+      "12 años"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 218,
+    "question": "En *Neon Genesis Evangelion*, ¿cuál es la verdadera naturaleza biológica de las unidades EVA?",
+    "options": [
+      "Clones del primer y segundo ángel (Adam/Lilith)",
+      "Robots impulsados por vapor",
+      "Supercomputadoras biomecánicas",
+      "Alienígenas de la Luna"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 219,
+    "question": "En *Steins;Gate*, ¿cuál es el nombre de la máquina o dispositivo con el que logran enviar mensajes al pasado?",
+    "options": [
+      "PhoneWave (nombre provisional)",
+      "Time Machine v1",
+      "IBN 5100",
+      "Divergence Meter"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 220,
+    "question": "¿Cuál es la complejidad promedio de búsqueda en una tabla hash bien implementada?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n²)"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 221,
+    "question": "¿Qué principio de la mecánica cuántica formulado por Heisenberg afirma la imposibilidad de conocer simultáneamente la posición y el momento de una partícula?",
+    "options": [
+      "Principio de Incertidumbre",
+      "Principio de Exclusión de Pauli",
+      "Efecto Túnel",
+      "Dualidad onda-partícula"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 222,
+    "question": "¿Cuál de estas afirmaciones sobre una búsqueda binaria es correcta?",
+    "options": [
+      "Requiere que los datos estén ordenados",
+      "Siempre tiene complejidad O(n)",
+      "Solo funciona con árboles binarios",
+      "Siempre revisa todos los elementos"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 223,
+    "question": "En IPv4, ¿cuántos bits tiene una dirección IP?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "id": 224,
+    "question": "En *Hunter x Hunter*, ¿cuál es la habilidad Nen de Kurapika que solo puede usar contra la Brigada Fantasma?",
+    "options": [
+      "Chain Jail",
+      "Emperor Time",
+      "Judgment Chain",
+      "Holy Chain"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "id": 225,
+    "question": "¿Cuál es la capital de Australia?",
+    "options": [
+      "Canberra",
+      "Sídney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  }
+]
